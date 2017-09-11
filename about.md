@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The name of this blog comes from the title of the first section of my
+introduction to computer systems textbook ([CS:APP](http://csapp.cs.cmu.edu/)).
+The statement is literally true in computer systems -- but it is a metaphor for
+what I want to write about, too.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I write about computer science, technology and cybersecurity. The bits.  But
+I don't want to ignore how they affect the world, and how the world affects
+them. The context. This blog is about both the code we write, and the world we
+write it in.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
