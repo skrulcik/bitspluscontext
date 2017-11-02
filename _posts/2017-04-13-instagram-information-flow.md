@@ -60,7 +60,8 @@ flow control*.
 ## Access Control and Information Flow Control
 
 Both access control and information flow control describe mechanisms for
-protecting "private" information, information that
+protecting "private" information, information that should be visible to some
+parties but invisible to others.
 
 ## What makes information flow tough?
 
